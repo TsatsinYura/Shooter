@@ -461,6 +461,6 @@ while run:
 
                     text_life = font2.render("♥ " + str(life), 1, life_color)
                     window.blit(text_life, (730, 10))
-
+sfdghsfdhserdhsdfhserhsdrhjnsdfjnserjnsfdnsfghjs
                 display.update()
             delayer.tick(30)
